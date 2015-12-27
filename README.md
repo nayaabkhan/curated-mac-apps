@@ -30,6 +30,7 @@ A curated, well organised and regularly updated list of Mac Apps.
 ### Markdown
 - Markdown
 - Mou
+- MacDown
 
 ### Workflow
 - Alfred

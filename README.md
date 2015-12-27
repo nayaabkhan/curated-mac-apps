@@ -5,6 +5,7 @@ A curated, well organised and regularly updated list of Mac Apps.
 ### Media
 - Spotify
 - VLC
+- iTunes
 
 ### Communication
 - Slack

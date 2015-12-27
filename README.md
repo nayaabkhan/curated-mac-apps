@@ -3,7 +3,7 @@ A curated, well organised and regularly updated list of Mac Apps.
 
 
 ### Media
-- Rdio
+- Spotify
 - VLC
 
 ### Communication
@@ -21,7 +21,7 @@ A curated, well organised and regularly updated list of Mac Apps.
 - AddDelete
 
 ### Mail
-- Mailbox
+- Nylas N1
 
 ### iPad/iPod management
 - iExplorer
